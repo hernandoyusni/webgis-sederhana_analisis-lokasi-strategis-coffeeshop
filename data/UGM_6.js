@@ -1,0 +1,1 @@
+var json_UGM_6 = {"type":"FeatureCollection","name":"UGM_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"0"},"geometry":{"type":"Point","coordinates":[110.377830232443699,-7.770088732084468]}}]}
